@@ -48,11 +48,11 @@ Example Output - After adding and listing tasks:
 Task 1: Write project documentation - not done
 Task 2: Fix bug in task tracker - in progress
 
-License
 
-#### **3. Double-Check Everything**
-- Confirm all features work perfectly.
-- Test your instructions in the README to ensure they’re accurate and clear.
+## License
+
+This project was inspired by the [Task Tracker Project on roadmap.sh](https://roadmap.sh/projects/task-tracker). Please visit their website for more amazing project ideas.
+
 
 
 
