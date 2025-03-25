@@ -17,7 +17,7 @@ Task Tracker CLI is a command-line application that allows users to track their 
    cd TaskTracker
 
 
-# Commands to Run
+2. Commands to Run
   - Add a task:
      python task_tracker.py add "New task"
 
